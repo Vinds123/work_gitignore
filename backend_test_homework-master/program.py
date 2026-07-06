@@ -1,0 +1,3 @@
+print('Я домашка')
+print('я учусь работать с Git')
+print('GHDBTN')
